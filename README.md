@@ -11,5 +11,5 @@ We are using the HyperCLOVA model for Korean OCR.
 
 [![Explanation Video](https://i.imgur.com/DmEaozB.png)](https://youtu.be/WZm139cN-U4?si=Su0cH4I5-_Gd4Oh2)
 
-(한국어 설명)[[kor]readme.md)
+[한국어 설명]([kor]readme.md)
 
