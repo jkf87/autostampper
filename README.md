@@ -1,4 +1,4 @@
-# Notification Notebook Auto-stamper
+# Auto-stamper 
 Hello! 👋 Introducing the Notification Notebook Auto-stamper, an automatic checker for students' notification notebooks!
 
 ![Model Architecture](https://i.imgur.com/wajmszb.png)
